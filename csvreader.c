@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <stdint.h>
-#include <stdlib.h>
-
-
 
 
 #define Max_line_len 300 // It's a relatively smaller csv file
@@ -13,8 +10,8 @@ int main(){
     if (file=NULL)   
     {
         printf("Error: there was no csv file");
-    }   
+    }
+    
+
+
 }
-
-char line [Max_line_len]; // buffer to store each line 
-
