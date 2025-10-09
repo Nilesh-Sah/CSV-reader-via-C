@@ -73,3 +73,13 @@ Error handling: X marks values outside the expected range
 This creates a quick, text-only way to see temperature trends at a glance!
 
 
+
+#in the similar fashion other function are created
+#Bascially what I thought would be Convienet was to make function and later manipulate them in the main code
+
+
+#If you see any error with anything, you can inform me if you want 
+
+thank you if you are reading this 
+Have a great life ahead 
+Keep your head up high
